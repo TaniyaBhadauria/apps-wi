@@ -1,0 +1,17 @@
+item_code: CR-9009
+item_name: CR100 - External Portable Mount Kit 
+bom_code: BOM/CR-9009/001
+cover_image: ./CR-9009.png
+template_types:
+  - tool-list: <template-file>
+  - instruction: <template-file>
+  - inspection: <template-file>
+
+---
+type: instruction
+title: Work-in-Progress
+media:
+  - image: /media/placeholder.svg
+content: |
+  !!! danger
+    This is a placeholder slide. There is no work instructions associated with this assembly at this time.
