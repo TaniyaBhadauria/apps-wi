@@ -10,16 +10,16 @@ template_types:
 ---
 type: tool-list
 tools:
-  - tool_wrench_18mm: /CR-9001-tool-1.png
-  - tool_tubing_cutter_husky: /CR-9001-tool-2.png
-  - tool_wrench_17mm: /CR-9001-tool-3.png
+  - tool_wrench_18mm: ./media/CR-9001-tool-1.png
+  - tool_tubing_cutter_husky: ./media/CR-9001-tool-2.png
+  - tool_wrench_17mm: ./media/CR-9001-tool-3.png
 
 ---
 type: instruction
 title: Inlet Fitting
 media:
-  - image: /CR-9001-assembly-1.png
-  - image: /CR-9001-assembly-2.png
+  - image: ./media/CR-9001-assembly-1.png
+  - image: ./media/CR-9001-assembly-2.png
 content: |
   !!! warning
     Note the rounded, hexagonal side of the filter.
@@ -32,9 +32,9 @@ content: |
 type: instruction
 title: Outlet Tube Preparation
 media:
-  - image: /CR-9001-assembly-3.png
-  - image: /CR-9001-assembly-4.png
-  - image: /CR-9001-assembly-5.png
+  - image: ./media/CR-9001-assembly-3.png
+  - image: ./media/CR-9001-assembly-4.png
+  - image: ./media/CR-9001-assembly-5.png
 content: |
   - Cut 4.75 inches of tubing (``ST-4001``).
   - Some natural bend in the tube is okay.
@@ -45,7 +45,7 @@ content: |
 type: instruction
 title: Outlet Tube Installation
 media:
-  - image: /CR-9001-assembly-7.png
+  - image: ./media/CR-9001-assembly-7.png
 content: |
   - Apply Teflon thread sealant (``GN-1016``) to the threaded fitting on the tube assembly.
   - Using the [[tool_wrench_17]], thread the tube assembly and filter assembly together.
@@ -57,7 +57,7 @@ content: |
 type: instruction
 title: Finishing Details
 media:
-  - image: /CR-9001-assembly-8.png
+  - image: ./media/CR-9001-assembly-8.png
 content: |
   - Using a plug (``HW-4035``), plug the filter assembly inlet.
   - Using a cap (``HW-4008``), cap the filter assembly outlet.
