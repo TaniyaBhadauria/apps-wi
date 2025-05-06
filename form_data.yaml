@@ -1,0 +1,15 @@
+bom_code: Test
+cover_image: ./media/istockphoto-492201907-612x612.jpg
+item_code: Test
+item_name: Test
+steps:
+- content: Step 1 content
+  media:
+  - ./media/istockphoto-492201907-612x612.jpg
+  title: Step 1 title
+  type: instruction
+- content: Step 2 content
+  media:
+  - ./media/istockphoto-492201907-612x612.jpg
+  title: Step 2 title
+  type: instruction
